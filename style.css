@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("road.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+#audio{
+    width: 200px;
+    height: 20px;
+    margin-right: 10px;
+    float: right;
+
+}
+
+#logo {
+    position: relative;
+}
+
+#logo > a > img {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 100px;
+    width: 200px;
+}
