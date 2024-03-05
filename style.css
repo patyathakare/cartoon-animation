@@ -8,7 +8,9 @@ body{
     overflow: hidden;
 }
 #audio{
-    display: none;
+   width:200px;
+    height:20px;
+    margin-right:10px;
     float: right;
 
 }
