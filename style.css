@@ -12,13 +12,10 @@ body{
     height: 20px;
     margin-right: 10px;
     float: right;
-
 }
-
 #logo {
     position: relative;
 }
-
 #logo > a > img {
     position: absolute;
     top: 20px;
